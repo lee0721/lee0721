@@ -9,6 +9,15 @@ MSc Advanced Computing student at King’s College London specialising in AI inf
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee0721&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/tttttyler__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tttttyler__" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ty1er1ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ty1er1ee" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+
 
 ## Right Now
 - Shipping a FastAPI + SQLite **Payment Transaction Simulator** with fraud heuristics, a recruiter-friendly UI walkthrough, and Docker deployment.
