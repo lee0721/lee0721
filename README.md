@@ -5,7 +5,7 @@ MSc Advanced Computing student at King’s College London specialising in AI inf
 - 📍 London-based via Taiwan; open to ML/AI engineering roles and research collaborations.
 - 🎓 Wrapping an MSc thesis on automated basketball video analysis (CourtVision Engine).
 - 🧠 Interests: multimodal perception, scalable ML infra, trustworthy AI, and human-in-the-loop tooling.
-- ✉️ [Email](mailto:yuhanlee0721@gmail.com) · [Portfolio](https://lee0721.github.io) · [LinkedIn](https://www.linkedin.com/in/ty1er1ee/) 
+- ✉️ [Email](mailto:yuhanlee0721@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ty1er1ee/) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
