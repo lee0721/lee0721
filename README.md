@@ -1,11 +1,18 @@
 # Hi, I'm Yu-Han Lee 👋
 
-MSc Advanced Computing student at King’s College London specialising in AI infrastructure, machine learning, and computer vision systems. I build modular deep learning pipelines and full-stack analytics prototypes that bridge research and production.
+<h1 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+    Hey there, I'm Yu-Han Lee
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+</h1>
+<h3 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+    💡 Making AI do cool things
+</h3>
+<h4 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+    📍 London-based via Taiwan; open to ML/AI engineering roles and research collaborations.
+</h4>
 
-- 📍 London-based via Taiwan; open to ML/AI engineering roles and research collaborations.
-- 🎓 Wrapping an MSc thesis on automated basketball video analysis (CourtVision Engine).
-- 🧠 Interests: multimodal perception, scalable ML infra, trustworthy AI, and human-in-the-loop tooling.
-- ✉️ [Email](mailto:yuhanlee0721@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ty1er1ee/) 
+MSc Advanced Computing student at King’s College London specialising in AI infrastructure, machine learning, and computer vision systems. I build modular deep learning pipelines and full-stack analytics prototypes that bridge research and production.
+✉️ [Email](mailto:yuhanlee0721@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ty1er1ee/) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
