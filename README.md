@@ -9,6 +9,7 @@
     📍 London-based via Taiwan; open to ML/AI engineering roles and research collaborations.
 </h4>
 # 💫About Me
+
 MSc Advanced Computing student at King’s College London specialising in AI infrastructure, machine learning, and computer vision systems. I build modular deep learning pipelines and full-stack analytics prototypes that bridge research and production.
 
 ✉️ [Email](mailto:yuhanlee0721@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ty1er1ee/) 
