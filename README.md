@@ -40,5 +40,4 @@
 ### Featured Projects
 - [CourtVision Engine](https://github.com/lee0721/courtvision-engine) – Basketball video analytics with YOLOv8, ByteTrack, CLIP, and R(2+1)D.
 - [Payment Transaction Simulator](https://github.com/lee0721/payment_transaction_simulator) – FastAPI + SQLite/PostgreSQL transaction simulator with fraud heuristics and Docker deployment.
-- [Cloudflare AI Chat](https://github.com/lee0721/cloudflare-ai-chat) – Multi-model Workers AI chat with Durable Objects and retrieval over uploaded files.
 - [One-Shot Face Recognition](https://github.com/lee0721/one-shot-face-recognition) – Few-shot attendance system built on VGGFace and metric learning.
