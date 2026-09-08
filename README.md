@@ -10,7 +10,6 @@
 📄 Co-author @ TAAI 2023 (Few-shot Face Recognition) <br/>
 🏅 Taiwan NSTC Undergraduate Research Grant recipient <br/>
 🏀 Built CourtVision Engine for automated basketball video analysis <br/>
-⚙️ Building production-style backend and analytics projects with FastAPI, Docker, and PostgreSQL <br/>
 
 ### Languages & Tools
 <img src="https://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black"> 
